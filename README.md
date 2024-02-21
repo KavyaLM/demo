@@ -1,2 +1,2 @@
 hello
-welcom
+welcome
